@@ -1,17 +1,19 @@
 {
   "files": {
-    "main.css": "./static/css/main.80c545ec.chunk.css",
-    "main.js": "./static/js/main.74a06f56.chunk.js",
-    "main.js.map": "./static/js/main.74a06f56.chunk.js.map",
-    "runtime-main.js": "./static/js/runtime-main.fff6ee50.js",
-    "runtime-main.js.map": "./static/js/runtime-main.fff6ee50.js.map",
-    "static/js/2.a030bb60.chunk.js": "./static/js/2.a030bb60.chunk.js",
-    "static/js/2.a030bb60.chunk.js.map": "./static/js/2.a030bb60.chunk.js.map",
+    "main.css": "./static/css/main.ea12ef03.chunk.css",
+    "main.js": "./static/js/main.86374098.chunk.js",
+    "main.js.map": "./static/js/main.86374098.chunk.js.map",
+    "runtime-main.js": "./static/js/runtime-main.a598fc7f.js",
+    "runtime-main.js.map": "./static/js/runtime-main.a598fc7f.js.map",
+    "static/js/2.34dd0125.chunk.js": "./static/js/2.34dd0125.chunk.js",
+    "static/js/2.34dd0125.chunk.js.map": "./static/js/2.34dd0125.chunk.js.map",
     "index.html": "./index.html",
-    "precache-manifest.f84f0f0edc727f30a3b7d57198ce7c02.js": "./precache-manifest.f84f0f0edc727f30a3b7d57198ce7c02.js",
+    "precache-manifest.ec91486a39d165f53803e258d7f85650.js": "./precache-manifest.ec91486a39d165f53803e258d7f85650.js",
     "service-worker.js": "./service-worker.js",
-    "static/css/main.80c545ec.chunk.css.map": "./static/css/main.80c545ec.chunk.css.map",
+    "static/css/main.ea12ef03.chunk.css.map": "./static/css/main.ea12ef03.chunk.css.map",
+    "static/js/2.34dd0125.chunk.js.LICENSE.txt": "./static/js/2.34dd0125.chunk.js.LICENSE.txt",
     "static/media/index.css": "./static/media/Montserrat-Regular.ee653992.ttf",
+    "static/media/NIE.png": "./static/media/NIE.4ff44a15.png",
     "static/media/address_image.svg": "./static/media/address_image.3b021f8f.svg",
     "static/media/animated_ashutosh.png": "./static/media/animated_ashutosh.6c8410d0.png",
     "static/media/animated_logo.svg": "./static/media/animated_logo.52e0714e.svg",
@@ -30,6 +32,7 @@
     "static/media/fullstack.svg": "./static/media/fullstack.589bec7d.svg",
     "static/media/gcp_logo.png": "./static/media/gcp_logo.ba18401b.png",
     "static/media/github_logo.png": "./static/media/github_logo.e64de169.png",
+    "static/media/google.png": "./static/media/google.ff629c02.png",
     "static/media/googleAssistant.jpg": "./static/media/googleAssistant.0c8a4c11.jpg",
     "static/media/googleAssistant.svg": "./static/media/googleAssistant.c24ba791.svg",
     "static/media/ibm_logo.png": "./static/media/ibm_logo.6d325fec.png",
@@ -50,9 +53,9 @@
     "static/media/ui_ux_design.svg": "./static/media/ui_ux_design.67a6a11c.svg"
   },
   "entrypoints": [
-    "static/js/runtime-main.fff6ee50.js",
-    "static/js/2.a030bb60.chunk.js",
-    "static/css/main.80c545ec.chunk.css",
-    "static/js/main.74a06f56.chunk.js"
+    "static/js/runtime-main.a598fc7f.js",
+    "static/js/2.34dd0125.chunk.js",
+    "static/css/main.ea12ef03.chunk.css",
+    "static/js/main.86374098.chunk.js"
   ]
 }
