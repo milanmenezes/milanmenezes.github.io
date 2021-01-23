@@ -365,15 +365,15 @@ const degrees = {
       logo_path: "NIE.png",
       alt_name: "NIE Mysore",
       duration: "2015 - 2019",
-      descriptions: ["CGPA: 9.20"],
+      descriptions: ["⚡ CGPA: 9.20"],
       website_link: "https://nie.ac.in/",
     },
     {
       title: "Vidhyaashram Pre University College",
       subtitle: "11th-12th",
       logo_path: "iiitk_logo.png",
-      alt_name: "IIITDM Kurnool",
-      duration: "2015 - 2019",
+      alt_name: "Vidhyaashram Mysore",
+      duration: "2013 - 2015",
       descriptions: [
         "⚡ I have studied basic software engineering subjects like DS, Algorithms, DBMS, OS, CA, AI etc.",
         "⚡ Apart from this, I have done courses on Deep Learning, Data Science, Cloud Computing and Full Stack Development.",
@@ -536,7 +536,7 @@ const experience = {
           title: "Software Engineer",
           company: "Shell",
           company_url: "https://shell.com",
-          logo_path: "google_logo.png",
+          logo_path: "shell_logo.png",
           duration: "May 2018 - Oct 2018",
           location: "Pune, Maharashtra",
           description:
@@ -549,28 +549,28 @@ const experience = {
       title: "Internships",
       experiences: [
         {
-          title: "Data Science Research Intern",
-          company: "Delhivery Pvt. Ltd.",
-          company_url: "https://www.delhivery.com/",
-          logo_path: "delhivery_logo.png",
-          duration: "May 2019 - Sept 2019",
+          title: "Full Stack Developer Intern",
+          company: "Fanlytiks",
+          company_url: "https://angel.co/company/fanlytiks",
+          logo_path: "fanlytiks_logo.jpg",
+          duration: "June 2018 - Aug 2018",
           location: "Gurgaon, Haryana",
           description:
             "I have worked on project of predicting freight rates based on previous data. There were two objectives: (1) To build a forecasting engine to predict daily freight rates. (2) To embed feature in the model which can explain the seasonal major changes in freight rate based on regions and locations. I have closely worked with deep learning models in combination with statistical methods to create solution for this. At the end of internship, I had created model deployed on AWS EC2 with the use of Kafka stream jobs, ElasticSearch and PostgreSQL.",
           color: "#ee3c26",
         },
-        {
-          title: "Data Science Intern",
-          company: "Intel Indexer LLC",
-          company_url:
-            "https://opencorporates.com/companies/us_dc/EXTUID_4170286",
-          logo_path: "intel_logo.jpg",
-          duration: "Nov 2018 - Dec 2018",
-          location: "Work From Home",
-          description:
-            "This is financial Solution Company. I have made Supervised Learning model for the company which can perform time series analysis on Stock price data for 32 companies. I have built LSTM Neural Networks Model and trained the data of 32 companies for last 2 years. This model is also used for forecasting.",
-          color: "#0071C5",
-        },
+        // {
+        //   title: "Data Science Intern",
+        //   company: "Intel Indexer LLC",
+        //   company_url:
+        //     "https://opencorporates.com/companies/us_dc/EXTUID_4170286",
+        //   logo_path: "intel_logo.jpg",
+        //   duration: "Nov 2018 - Dec 2018",
+        //   location: "Work From Home",
+        //   description:
+        //     "This is financial Solution Company. I have made Supervised Learning model for the company which can perform time series analysis on Stock price data for 32 companies. I have built LSTM Neural Networks Model and trained the data of 32 companies for last 2 years. This model is also used for forecasting.",
+        //   color: "#0071C5",
+        // },
       ],
     },
     {
