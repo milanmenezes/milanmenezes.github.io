@@ -362,38 +362,40 @@ const degrees = {
     {
       title: "The National Institute of Engineering",
       subtitle: "Bachelor of Engineering in Computer Science",
-      logo_path: "NIE.png",
+      logo_path: "nie_logo.png",
       alt_name: "NIE Mysore",
       duration: "2015 - 2019",
-      descriptions: ["⚡ CGPA: 9.20"],
+      descriptions: [
+        "⚡ I graduated with a CGPA of 9.20",
+        "⚡ I studied Algorithms, Data Structures, Operating Systems, Networking and System Design among other subjects"
+    ],
       website_link: "https://nie.ac.in/",
     },
     {
       title: "Vidhyaashram Pre University College",
-      subtitle: "11th-12th",
-      logo_path: "iiitk_logo.png",
+      subtitle: "Grade 11 - 12",
+      logo_path: "vidhyaashram_logo.png",
       alt_name: "Vidhyaashram Mysore",
       duration: "2013 - 2015",
       descriptions: [
-        "⚡ I have studied basic software engineering subjects like DS, Algorithms, DBMS, OS, CA, AI etc.",
-        "⚡ Apart from this, I have done courses on Deep Learning, Data Science, Cloud Computing and Full Stack Development.",
-        "⚡ I was selected for Merit cum Means Scholarship which is given to top 10% of students in college. I have received award from respected director for consistently best performance in academics.",
+        "⚡ I completed PU with a score of 91.16%",
+        "⚡ I studied Physics, Chemistry, Mathematics and Computer Science",
       ],
       website_link: "https://nie.ac.in/",
     },
-    // {
-    //   title: "St. Joseph's Educational Institution",
-    //   subtitle: "Bachelor of Engineering in Computer Science",
-    //   logo_path: "iiitk_logo.png",
-    //   alt_name: "IIITDM Kurnool",
-    //   duration: "2015 - 2019",
-    //   descriptions: [
-    //     "⚡ I have studied basic software engineering subjects like DS, Algorithms, DBMS, OS, CA, AI etc.",
-    //     "⚡ Apart from this, I have done courses on Deep Learning, Data Science, Cloud Computing and Full Stack Development.",
-    //     "⚡ I was selected for Merit cum Means Scholarship which is given to top 10% of students in college. I have received award from respected director for consistently best performance in academics.",
-    //   ],
-    //   website_link: "https://nie.ac.in/",
-    // },
+    {
+      title: "St. Joseph's Educational Institution, Mysore",
+      subtitle: "Garde 1 - 10",
+      logo_path: "st.josephs_logo.png",
+      alt_name: "St. Joseph's",
+      duration: "2003 - 2013",
+      descriptions: [
+        "⚡ Matriculation Score: 85.6%",
+        // "⚡ Apart from this, I have done courses on Deep Learning, Data Science, Cloud Computing and Full Stack Development.",
+        // "⚡ I was selected for Merit cum Means Scholarship which is given to top 10% of students in college. I have received award from respected director for consistently best performance in academics.",
+      ],
+      website_link: "https://www.sjsjayalakshmipurammysuru.in/",
+    },
   ],
 };
 
@@ -641,7 +643,7 @@ const experience = {
 const projectsHeader = {
   title: "Projects",
   description:
-    "My projects makes use of vast variety of latest technology tools. My best experience is to create Data Science projects and deploy them to web applications using cloud infrastructure.",
+    "In my free time, I build applications to solve problems. Most of my projects are based on emerging technologies. I love Python and I prefer to do backend development with Flask and them on Cloud",
   avatar_image_path: "projects_image.svg",
 };
 
@@ -649,7 +651,7 @@ const projectsHeader = {
 const contactPageData = {
   contactSection: {
     title: "Contact Me",
-    profile_image_path: "animated_ashutosh.png",
+    profile_image_path: "milan.png",
     description:
       "I am available on almost every social media. You can message me, I will reply within 24 hours. I can help you with ML, AI, React, Android, Cloud and Opensource Development.",
   },
