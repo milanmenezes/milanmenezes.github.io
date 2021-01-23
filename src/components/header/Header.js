@@ -58,6 +58,8 @@ class Header extends Component {
                   onMouseEnter={(event) => onMouseEnter(event, theme.highlight)}
                   onMouseOut={(event) => onMouseOut(event)}
                   href="https://blog.milanmenezes.me"
+                  // eslint-disable-next-line react/jsx-no-target-blank
+                  target="_blank"
                 >
                   Blog
                 </a>
