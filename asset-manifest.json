@@ -1,17 +1,17 @@
 {
   "files": {
     "main.css": "./static/css/main.ea12ef03.chunk.css",
-    "main.js": "./static/js/main.56fe6744.chunk.js",
-    "main.js.map": "./static/js/main.56fe6744.chunk.js.map",
+    "main.js": "./static/js/main.39b9c76a.chunk.js",
+    "main.js.map": "./static/js/main.39b9c76a.chunk.js.map",
     "runtime-main.js": "./static/js/runtime-main.a598fc7f.js",
     "runtime-main.js.map": "./static/js/runtime-main.a598fc7f.js.map",
-    "static/js/2.34dd0125.chunk.js": "./static/js/2.34dd0125.chunk.js",
-    "static/js/2.34dd0125.chunk.js.map": "./static/js/2.34dd0125.chunk.js.map",
+    "static/js/2.8e2702d4.chunk.js": "./static/js/2.8e2702d4.chunk.js",
+    "static/js/2.8e2702d4.chunk.js.map": "./static/js/2.8e2702d4.chunk.js.map",
     "index.html": "./index.html",
-    "precache-manifest.418da4bebce86408672935c29a76240e.js": "./precache-manifest.418da4bebce86408672935c29a76240e.js",
+    "precache-manifest.953d5a9d4fdc9ebda530f8751e6f1c43.js": "./precache-manifest.953d5a9d4fdc9ebda530f8751e6f1c43.js",
     "service-worker.js": "./service-worker.js",
     "static/css/main.ea12ef03.chunk.css.map": "./static/css/main.ea12ef03.chunk.css.map",
-    "static/js/2.34dd0125.chunk.js.LICENSE.txt": "./static/js/2.34dd0125.chunk.js.LICENSE.txt",
+    "static/js/2.8e2702d4.chunk.js.LICENSE.txt": "./static/js/2.8e2702d4.chunk.js.LICENSE.txt",
     "static/media/index.css": "./static/media/Montserrat-Regular.ee653992.ttf",
     "static/media/NIE.png": "./static/media/NIE.4ff44a15.png",
     "static/media/address_image.svg": "./static/media/address_image.3b021f8f.svg",
@@ -47,6 +47,7 @@
     "static/media/programmer.svg": "./static/media/programmer.c1a95f73.svg",
     "static/media/projects_image.svg": "./static/media/projects_image.f7964c6b.svg",
     "static/media/pwa.png": "./static/media/pwa.bd5f4148.png",
+    "static/media/shell_logo.png": "./static/media/shell_logo.2c38c761.png",
     "static/media/stanford_logo.png": "./static/media/stanford_logo.da0e7c80.png",
     "static/media/talksCardBack.svg": "./static/media/talksCardBack.0288c5ec.svg",
     "static/media/talksCardBackAlt.svg": "./static/media/talksCardBackAlt.b48e86c9.svg",
@@ -54,8 +55,8 @@
   },
   "entrypoints": [
     "static/js/runtime-main.a598fc7f.js",
-    "static/js/2.34dd0125.chunk.js",
+    "static/js/2.8e2702d4.chunk.js",
     "static/css/main.ea12ef03.chunk.css",
-    "static/js/main.56fe6744.chunk.js"
+    "static/js/main.39b9c76a.chunk.js"
   ]
 }
