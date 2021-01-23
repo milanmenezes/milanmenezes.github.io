@@ -1,23 +1,23 @@
 self.__precacheManifest = (self.__precacheManifest || []).concat([
   {
-    "revision": "7ee4a953b7315c7069eee8a9cbbc4f57",
+    "revision": "1bc4c2e5adacacbcf430609fb7d2895c",
     "url": "./index.html"
   },
   {
-    "revision": "5aac3030efdfacd7bb94",
+    "revision": "f42f0269687be2718e42",
     "url": "./static/css/main.ea12ef03.chunk.css"
   },
   {
-    "revision": "f5be30ad06aed2a4b026",
-    "url": "./static/js/2.8e2702d4.chunk.js"
+    "revision": "9009cb738ed670ff02df",
+    "url": "./static/js/2.54bf3c1e.chunk.js"
   },
   {
     "revision": "eaaf63558baae456918a991a401208d7",
-    "url": "./static/js/2.8e2702d4.chunk.js.LICENSE.txt"
+    "url": "./static/js/2.54bf3c1e.chunk.js.LICENSE.txt"
   },
   {
-    "revision": "5aac3030efdfacd7bb94",
-    "url": "./static/js/main.39b9c76a.chunk.js"
+    "revision": "f42f0269687be2718e42",
+    "url": "./static/js/main.589e63ee.chunk.js"
   },
   {
     "revision": "162b0964554e389d5d19",
@@ -54,10 +54,6 @@ self.__precacheManifest = (self.__precacheManifest || []).concat([
   {
     "revision": "ee6539921d713482b8ccd4d0d23961bb",
     "url": "./static/media/Montserrat-Regular.ee653992.ttf"
-  },
-  {
-    "revision": "4ff44a15615f68d7dcda257d926fae4b",
-    "url": "./static/media/NIE.4ff44a15.png"
   },
   {
     "revision": "3b021f8ffcf9f323ea72abc28382e234",
@@ -224,8 +220,16 @@ self.__precacheManifest = (self.__precacheManifest || []).concat([
     "url": "./static/media/manOnTable.52be3144.svg"
   },
   {
+    "revision": "dfee07e0074554e22bb0fe285e440601",
+    "url": "./static/media/milan.dfee07e0.png"
+  },
+  {
     "revision": "db6c1c0dddd4c868e00a3cffa1078e49",
     "url": "./static/media/muffito_logo.db6c1c0d.png"
+  },
+  {
+    "revision": "4ff44a15615f68d7dcda257d926fae4b",
+    "url": "./static/media/nie_logo.4ff44a15.png"
   },
   {
     "revision": "cd7077f7a08bffdb11e13093424e13fd",
@@ -252,6 +256,10 @@ self.__precacheManifest = (self.__precacheManifest || []).concat([
     "url": "./static/media/shell_logo.2c38c761.png"
   },
   {
+    "revision": "e1bba5f3dda5a8dce191e991b71cb369",
+    "url": "./static/media/st.josephs_logo.e1bba5f3.png"
+  },
+  {
     "revision": "da0e7c80b90df28dd3a590c80f3d4970",
     "url": "./static/media/stanford_logo.da0e7c80.png"
   },
@@ -266,5 +274,9 @@ self.__precacheManifest = (self.__precacheManifest || []).concat([
   {
     "revision": "67a6a11c47edafb87cf24da66afe3dca",
     "url": "./static/media/ui_ux_design.67a6a11c.svg"
+  },
+  {
+    "revision": "5fc3a373a228fad75d5ef7708465dfe2",
+    "url": "./static/media/vidhyaashram_logo.5fc3a373.png"
   }
 ]);
