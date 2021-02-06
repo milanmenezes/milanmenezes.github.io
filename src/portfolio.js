@@ -52,24 +52,24 @@ const socialMediaLinks = [
     fontAwesomeIcon: "fa-linkedin-in", // Reference https://fontawesome.com/icons/linkedin-in?style=brands
     backgroundColor: "#0077B5", // Reference https://simpleicons.org/?q=linkedin
   },
-  // {
-  //   name: "YouTube",
-  //   link: "https://youtube.com/user/milanmenezes",
-  //   fontAwesomeIcon: "fa-youtube", // Reference https://fontawesome.com/icons/youtube?style=brands
-  //   backgroundColor: "#FF0000", // Reference https://simpleicons.org/?q=youtube
-  // },
+  {
+    name: "YouTube",
+    link: "https://youtube.com/user/milanmenezes",
+    fontAwesomeIcon: "fa-youtube", // Reference https://fontawesome.com/icons/youtube?style=brands
+    backgroundColor: "#FF0000", // Reference https://simpleicons.org/?q=youtube
+  },
   {
     name: "Gmail",
     link: "mailto:mail@milanmenezes.me",
     fontAwesomeIcon: "fa-google", // Reference https://fontawesome.com/icons/google?style=brands
     backgroundColor: "#D14836", // Reference https://simpleicons.org/?q=gmail
   },
-  // {
-  //   name: "Twitter",
-  //   link: "https://twitter.com/milanmenezes",
-  //   fontAwesomeIcon: "fa-twitter", // Reference https://fontawesome.com/icons/twitter?style=brands
-  //   backgroundColor: "#1DA1F2", // Reference https://simpleicons.org/?q=twitter
-  // },
+  {
+    name: "Twitter",
+    link: "https://twitter.com/milanmenezes",
+    fontAwesomeIcon: "fa-twitter", // Reference https://fontawesome.com/icons/twitter?style=brands
+    backgroundColor: "#1DA1F2", // Reference https://simpleicons.org/?q=twitter
+  },
   {
     name: "Facebook",
     link: "https://www.facebook.com/milanmenezes/",
@@ -367,8 +367,8 @@ const degrees = {
       duration: "2015 - 2019",
       descriptions: [
         "⚡ I graduated with a CGPA of 9.20",
-        "⚡ I studied Algorithms, Data Structures, Operating Systems, Networking and System Design among other subjects"
-    ],
+        "⚡ I studied Algorithms, Data Structures, Operating Systems, Networking and System Design among other subjects",
+      ],
       website_link: "https://nie.ac.in/",
     },
     {
