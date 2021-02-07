@@ -7,13 +7,13 @@ const settings = {
 
 //SEO Related settings
 const seo = {
-  title: "Ashutosh's Portfolio",
+  title: "Milan's Portfolio",
   description:
     "A passionate individual who always thrives to work on end to end products which develop sustainable and scalable social and technical systems to create impact.",
   og: {
-    title: "Ashutosh Hathidara Portfolio",
+    title: "Milan Menezes Portfolio",
     type: "website",
-    url: "https://ashutosh1919.github.io/",
+    url: "https://milanmenezes.github.io/",
   },
 };
 
@@ -643,7 +643,7 @@ const experience = {
 const projectsHeader = {
   title: "Projects",
   description:
-    "In my free time, I build applications to solve problems. Most of my projects are based on emerging technologies. I love Python and I prefer to do backend development with Flask and them on Cloud",
+    "In my free time, I build applications to solve problems. Most of my projects are based on emerging technologies. I love Python and I prefer to do backend development with Flask and deploy them on the Cloud",
   avatar_image_path: "projects_image.svg",
 };
 
@@ -653,12 +653,12 @@ const contactPageData = {
     title: "Contact Me",
     profile_image_path: "milan.png",
     description:
-      "I am available on almost every social media. You can message me, I will reply within 24 hours. I can help you with ML, AI, React, Android, Cloud and Opensource Development.",
+      "Feel free to reach out to me, the best way is through Linkedin. I like speaking to students about application design/development, on/off campus placements, career development and technology.",
   },
   blogSection: {
     title: "Blogs",
     subtitle:
-      "For individual fundamental empowerment, I like to write powerful lessons that create impact on each of the reader individually to change the core of their character.",
+      "I like to write technical blog posts and my experience working with technology.",
     link: "https://blog.milanmenezes.me",
     avatar_image_path: "blogs_image.svg",
   },
@@ -671,6 +671,10 @@ const contactPageData = {
   phoneSection: {
     title: "Phone Number",
     subtitle: "+91 9481211903",
+  },
+  emailSection: {
+    title: "Email",
+    subtitle: "milanmenezes@google.com",
   },
 };
 
