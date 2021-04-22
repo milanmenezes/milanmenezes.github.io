@@ -9,7 +9,7 @@ const settings = {
 const seo = {
   title: "Milan's Portfolio",
   description:
-    "A passionate individual who always thrive to work on end to end products which develop sustainable and scalable social and technical systems to create impact.",
+    "A Google Engineer, Developer, Musician, and a Gamer working in Cloud Platform helping enterprises in their Cloud journey. Solving problems using technology to make the world a better place.",
   og: {
     title: "Milan Menezes Portfolio",
     type: "website",
@@ -23,7 +23,7 @@ const greeting = {
   logo_name: "MilanMenezes",
   nickname: "milanmenezes",
   subTitle:
-    "A passionate individual who always thrive to work on end to end products which develop sustainable and scalable social and technical systems to create impact.",
+    "A Google Engineer, Developer, Musician, and a Gamer working in Cloud Platform helping enterprises in their Cloud journey. Solving problems using technology to make the world a better place.",
   resumeLink:
     "https://drive.google.com/open?id=1XYpYhLeqCdyx_q6l0bQoC7RgwQjAjXPf",
   portfolio_repository:
@@ -132,8 +132,8 @@ const skills = {
       fileName: "FullStackImg",
       skills: [
         "⚡ Building resposive website front end using React-Redux",
-        "⚡ Developing mobile applications using Flutter, React Native and solo android apps using Kotlin",
-        "⚡ Creating application backend in Node, Express & Flask",
+        "⚡ Developing android applications using using Java/Kotlin",
+        "⚡ Creating application backend in Node-Express & Python-Flask",
       ],
       softwareSkills: [
         {
@@ -148,13 +148,6 @@ const skills = {
           fontAwesomeClassname: "fa-css3",
           style: {
             color: "#1572B6",
-          },
-        },
-        {
-          skillName: "Sass",
-          fontAwesomeClassname: "simple-icons:sass",
-          style: {
-            color: "#CC6699",
           },
         },
         {
@@ -180,29 +173,36 @@ const skills = {
           },
         },
         {
-          skillName: "NPM",
-          fontAwesomeClassname: "simple-icons:npm",
+          skillName: "Android",
+          fontAwesomeClassname: "simple-icons:android",
           style: {
-            color: "#CB3837",
+            color: "#a4c639",
           },
         },
+        // {
+        //   skillName: "NPM",
+        //   fontAwesomeClassname: "simple-icons:npm",
+        //   style: {
+        //     color: "#CB3837",
+        //   },
+        // },
+        // {
+        //   skillName: "Yarn",
+        //   fontAwesomeClassname: "simple-icons:yarn",
+        //   style: {
+        //     color: "#2C8EBB",
+        //   },
+        // },
         {
-          skillName: "Yarn",
-          fontAwesomeClassname: "simple-icons:yarn",
-          style: {
-            color: "#2C8EBB",
-          },
-        },
-        {
-          skillName: "Gatsby",
-          fontAwesomeClassname: "simple-icons:gatsby",
+          skillName: "Python",
+          fontAwesomeClassname: "simple-icons:python",
           style: {
             color: "#663399",
           },
         },
         {
-          skillName: "Flutter",
-          fontAwesomeClassname: "simple-icons:flutter",
+          skillName: "Flask",
+          fontAwesomeClassname: "simple-icons:flask",
           style: {
             color: "#02569B",
           },
@@ -210,13 +210,14 @@ const skills = {
       ],
     },
     {
-      title: "Cloud Infra-Architecture",
+      title: "Cloud Infrastructure and Serverless Platform",
       fileName: "CloudInfraImg",
       skills: [
         "⚡ Experience working on multiple cloud platforms",
-        "⚡ Hosting and maintaining websites on virtual machine instances along with integration of databases",
-        "⚡ Deploying deep learning models on cloud to use on mobile devices",
-        "⚡ Setting up streaming jobs from DB to Server or vice-versa on GCP and AWS",
+        "⚡ Application modernization through containerization",
+        "⚡ Deploying and maintaining applications on virtual machines and kubernetes engine",
+        "⚡ Expeience working with Serverless Platforms: cloud functions, appengine and cloud run",
+        "⚡ Experience working with various Storage services of GCP",
       ],
       softwareSkills: [
         {
@@ -542,7 +543,7 @@ const experience = {
           duration: "May 2018 - Oct 2018",
           location: "Bengaluru, Karnataka",
           description:
-            "I worked on information security. I worked on the information risk managenent control framework.",
+            "I worked on information security and the information risk managenent control framework.",
           color: "#9b1578",
         },
       ],
@@ -582,7 +583,7 @@ const experience = {
           title: "Chairperson of Computer Society",
           company: "IEEE",
           company_url: "https://nisb.in/",
-          logo_path: "google_logo.png",
+          logo_path: "ieee_mb_blue.png",
           duration: "June 2017 - June 2018",
           location: "Mysore, Karnataka",
           description:
@@ -697,7 +698,7 @@ const contactPageData = {
     title: "Contact Me",
     profile_image_path: "milan.png",
     description:
-      "Feel free to reach out to me, the best way is through Linkedin. I like speaking to students about application design/development, on/off campus placements, career development and technology.",
+      "Ask me about Serverless Infrastructure, the best way to reach me is through LinkedIn. I like speaking to students about application design/development, on/off campus placements, career development and technology.",
   },
   blogSection: {
     title: "Blogs",
