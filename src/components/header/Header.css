@@ -53,6 +53,7 @@
 
 .header .menu {
   clear: both;
+  /* Changed max-height from 0 to none to display contact menu item on phones*/
   max-height: 0;
   transition: max-height 0.2s ease-out;
 }
@@ -103,7 +104,7 @@
 }
 
 .header .menu-btn:checked ~ .menu {
-  max-height: 370px;
+  max-height: 420px;
 }
 
 .header .menu-btn:checked ~ .menu-icon .navicon {
