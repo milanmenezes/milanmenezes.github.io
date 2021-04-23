@@ -1,23 +1,23 @@
 self.__precacheManifest = (self.__precacheManifest || []).concat([
   {
-    "revision": "974d8f72531fead201ff088e2d1da269",
+    "revision": "9075ea28d0ff8708eef43e74cf3e37fd",
     "url": "./index.html"
   },
   {
-    "revision": "869a12eaf441da8c27a5",
+    "revision": "b09b769e85797800a37e",
     "url": "./static/css/main.ea12ef03.chunk.css"
   },
   {
-    "revision": "0cfd3d2b0a4581bd8bfe",
-    "url": "./static/js/2.de87e9a3.chunk.js"
+    "revision": "9df0e5537334ed25e15c",
+    "url": "./static/js/2.06db0c31.chunk.js"
   },
   {
     "revision": "eaaf63558baae456918a991a401208d7",
-    "url": "./static/js/2.de87e9a3.chunk.js.LICENSE.txt"
+    "url": "./static/js/2.06db0c31.chunk.js.LICENSE.txt"
   },
   {
-    "revision": "869a12eaf441da8c27a5",
-    "url": "./static/js/main.27351c69.chunk.js"
+    "revision": "b09b769e85797800a37e",
+    "url": "./static/js/main.d5fcb497.chunk.js"
   },
   {
     "revision": "162b0964554e389d5d19",
@@ -200,6 +200,10 @@ self.__precacheManifest = (self.__precacheManifest || []).concat([
     "url": "./static/media/ibm_logo.6d325fec.png"
   },
   {
+    "revision": "e9ffed1f57bee09a5188899d1a016259",
+    "url": "./static/media/ieeeCs_logo.e9ffed1f.png"
+  },
+  {
     "revision": "c350d7996596e9909fe72c0938cc9ee5",
     "url": "./static/media/iiitk_logo.c350d799.png"
   },
@@ -232,8 +236,16 @@ self.__precacheManifest = (self.__precacheManifest || []).concat([
     "url": "./static/media/nie_logo.4ff44a15.png"
   },
   {
+    "revision": "2ab59bb9179ad8b37a75112f602add45",
+    "url": "./static/media/nisb_logo.2ab59bb9.png"
+  },
+  {
     "revision": "cd7077f7a08bffdb11e13093424e13fd",
     "url": "./static/media/nptel_logo.cd7077f7.png"
+  },
+  {
+    "revision": "dcfff8e07262443341c9a58ef77a26ce",
+    "url": "./static/media/onyx_logo.dcfff8e0.jpeg"
   },
   {
     "revision": "6e7dc5ad476dd2d57600bca9521f3a5d",
