@@ -688,7 +688,7 @@ const experience = {
 const projectsHeader = {
   title: "Projects",
   description:
-    "In my free time, I build applications to solve problems. Most of my projects are based on emerging technologies. I love Python and I prefer to do backend development with Flask and deploy them on the Cloud",
+    "In my free time, I build applications to solve problems. Most of my projects are based on emerging technologies. I love Python and I prefer to do backend development with Flask and deploy them on the Cloud.",
   avatar_image_path: "projects_image.svg",
 };
 
