@@ -25,7 +25,7 @@ const greeting = {
   subTitle:
     "A Google Engineer, Developer, Musician, and a Gamer working in Cloud Platform helping enterprises in their Cloud journey. Solving problems using technology to make the world a better place.",
   resumeLink:
-    "https://drive.google.com/open?id=1XYpYhLeqCdyx_q6l0bQoC7RgwQjAjXPf",
+    "https://drive.google.com/file/d/11wJ3SgynbCGVMFTsjrqm51wLP_l8spLj/view",
   portfolio_repository:
     "https://github.com/milanmenezes/milanmenezes.github.io",
 };
@@ -518,7 +518,7 @@ const experience = {
   title: "Experience",
   subtitle: "Work, Internship and Volunteership",
   description:
-    "I have worked with many evolving startups as ML and DL Developer, Designer and Software Architect. I have also worked with some well established companies mostly as AI Developer. I love organising events and that is why I am also involved with many opensource communities as a representative.",
+    "I'm a Cloud Technical Solutions Engineer at Google. Specializing in Serverless Infrastructute and Storage Services of GCP, I help enterprises in thier Cloud journey. I'm a Web developer and I love to code in Python.",
   header_image_path: "experience.svg",
   sections: [
     {
@@ -587,40 +587,40 @@ const experience = {
           duration: "June 2017 - June 2018",
           location: "Mysore, Karnataka",
           description:
-            "Explore Machine Learning (ML) is a Google-sponsored program for university students to get started with Machine Learning. The curriculum offers 3 tracks of ML Content (Beginner, Intermediate, Advanced) and relies on university student facilitators to train other students on campus and to build opensource projects under this program.",
+            "Lead the Computer Society at the IEEE Student Chapter building the tech culture at college by organizing talks, meetups and workshops.",
           color: "#4285F4",
         },
         {
           title: "Webmaster and Focus Group Lead",
           company: "IEEE",
           company_url: "https://nisb.in/",
-          logo_path: "google_logo.png",
-          duration: "August 2017 - June 2018",
+          logo_path: "nisb_logo.png",
+          duration: "August 2016 - June 2017",
           location: "Mysore, Karnataka",
           description:
-            "Explore Machine Learning (ML) is a Google-sponsored program for university students to get started with Machine Learning. The curriculum offers 3 tracks of ML Content (Beginner, Intermediate, Advanced) and relies on university student facilitators to train other students on campus and to build opensource projects under this program.",
+            "Built and maintained the web application of the IEEE student branch in college. Organized technical programs in various domains.",
           color: "#D83B01",
         },
         {
           title: "Campus Venture Core",
           company: "Onyx (E-cell NIE)",
           company_url: "https://nie.ac.in",
-          logo_path: "google_logo.png",
+          logo_path: "onyx_logo.jpeg",
           duration: "July 2016 - May 2017",
           location: "Mysore, Karnataka",
           description:
-            "Explore Machine Learning (ML) is a Google-sponsored program for university students to get started with Machine Learning. The curriculum offers 3 tracks of ML Content (Beginner, Intermediate, Advanced) and relies on university student facilitators to train other students on campus and to build opensource projects under this program.",
+            "I was part of the campus venture team at the E-cell in college that started a book exchange venture in college.",
           color: "#000000",
         },
         {
           title: "Student Representative of Bangalore Section",
           company: "IEEE Computer Society India Council",
           company_url: "https://site.ieee.org/ic-cs/",
-          logo_path: "google_logo.png",
+          logo_path: "ieeeCs_logo.png",
           duration: "May 2017 - Feburary 2018",
           location: "Bangalore, Karnataka",
           description:
-            "We have well established developer club in college which is directly associated with Google Developers. We have developed many interdisciplinary projects under the membership of this club. We have organised workshops and activities on Android Application Development, Flutter and React JS.",
+            "Represented Computer Society students chapters in Karnataka at the IEEE Computer Society India Council",
           color: "#0C9D58",
         },
         // {
