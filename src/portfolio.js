@@ -13,7 +13,7 @@ const seo = {
   og: {
     title: "Milan Menezes Portfolio",
     type: "website",
-    url: "https://milanmenezes.github.io/",
+    url: "https://www.milanmenezes.me/",
   },
 };
 
@@ -540,7 +540,7 @@ const experience = {
           company: "Shell",
           company_url: "https://shell.com",
           logo_path: "shell_logo.png",
-          duration: "May 2018 - Oct 2018",
+          duration: "June 2019 - June 2020",
           location: "Bengaluru, Karnataka",
           description:
             "I worked on information security and the information risk managenent control framework.",
